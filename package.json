@@ -5,13 +5,13 @@
   "keywords": [
     "game"
   ],
-  "homepage": "https://github.com/Zurokin/sss#readme",
+  "homepage": "https://github.com/Zurokin/hehe#readme",
   "bugs": {
-    "url": "https://github.com/Zurokin/sss/issues"
+    "url": "https://github.com/Zurokin/hehe/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zurokin/sss.git"
+    "url": "git+https://github.com/Zurokin/hehe.git"
   },
   "license": "ISC",
   "author": "zur",
